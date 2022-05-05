@@ -36,7 +36,7 @@ Neste desafio, é necessário fazer consultas no banco de dados com o TypeORM de
 
 ## Resultado dos testes
 
-![Bilby Stampede](https://github.com/Mateus2314/desafio_Database_Queries/image/../../../../../image/Captura%20de%20tela%20de%202022-05-05%2016-12-03.png)
+![Bilby Stampede](https://github.com/Mateus2314/desafio_Database_Queries/blob/main/image/Captura%20de%20tela%20de%202022-05-05%2016-12-03.png)
 
 
 ## :eyeglasses: Instruções sobre o que deve ser feito
